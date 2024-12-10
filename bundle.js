@@ -2316,3 +2316,5 @@ function prettify (target, template) {
 module.exports = prettify;
 
 },{}]},{},[4]);
+
+window.SKU = SKU;
